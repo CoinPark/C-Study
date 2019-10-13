@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Coin_Programming\\Csharp_Study\\ENUM\\EnumStudy\\EnumStudy\\EnumStudy.csproj": {}
+    "D:\\Coin_Programming\\Csharp_Study\\ENUM\\EnumStudy\\EnumStudy.csproj": {}
   },
   "projects": {
-    "D:\\Coin_Programming\\Csharp_Study\\ENUM\\EnumStudy\\EnumStudy\\EnumStudy.csproj": {
+    "D:\\Coin_Programming\\Csharp_Study\\ENUM\\EnumStudy\\EnumStudy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Coin_Programming\\Csharp_Study\\ENUM\\EnumStudy\\EnumStudy\\EnumStudy.csproj",
+        "projectUniqueName": "D:\\Coin_Programming\\Csharp_Study\\ENUM\\EnumStudy\\EnumStudy.csproj",
         "projectName": "EnumStudy",
-        "projectPath": "D:\\Coin_Programming\\Csharp_Study\\ENUM\\EnumStudy\\EnumStudy\\EnumStudy.csproj",
+        "projectPath": "D:\\Coin_Programming\\Csharp_Study\\ENUM\\EnumStudy\\EnumStudy.csproj",
         "packagesPath": "C:\\Users\\putac\\.nuget\\packages\\",
-        "outputPath": "D:\\Coin_Programming\\Csharp_Study\\ENUM\\EnumStudy\\EnumStudy\\obj\\",
+        "outputPath": "D:\\Coin_Programming\\Csharp_Study\\ENUM\\EnumStudy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
