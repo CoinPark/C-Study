@@ -28,7 +28,7 @@ namespace EnumStudy
                 }
                 Console.WriteLine("숫자를 입력하세요. [0 : North], [1 : South], [2 : East], [3 : West]");
                 EDrection direction = (EDrection)int.Parse(Console.ReadLine());
-
+                 
                 switch (direction)
                 {
                     case EDrection.North:
@@ -49,6 +49,11 @@ namespace EnumStudy
                     case EDrection.West:
                         {
                             x -= 1;
+                        }
+                        break;
+                    default:
+                        {
+                            Console.WriteLine("You entered wrong number");
                         }
                         break;
                 }
